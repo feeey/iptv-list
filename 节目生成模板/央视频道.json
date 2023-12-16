@@ -1,11 +1,5 @@
 [
   {
-    "name": "熊猫频道",
-    "rule": [
-      "熊猫频道"
-    ]
-  },
-  {
     "name": "CCTV1",
     "rule": [
       "CCTV1"
@@ -102,15 +96,15 @@
     ]
   },
   {
-    "name": "CCTV17",
-    "rule": [
-      "CCTV17"
-    ]
-  },
-  {
     "name": "CCTV16",
     "rule": [
       "CCTV16"
+    ]
+  },
+  {
+    "name": "CCTV17",
+    "rule": [
+      "CCTV17"
     ]
   },
   {
