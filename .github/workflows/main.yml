@@ -2,7 +2,7 @@ name: main
 
 on:
   schedule:
-    - cron: '23 35 * * *'  # 每天UTC时间00:00触发，你可以根据需求修改时间设置
+    - cron: '23 36 * * *'  # 每天UTC时间00:00触发，你可以根据需求修改时间设置
 
 jobs:
   build:
