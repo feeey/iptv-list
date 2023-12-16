@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master ]
   schedule:
-    - cron: '09 16 * * *' # 这里的时间为UTC时间，需要转换成你当地的时间
+    - cron: '24 16 * * *' # 这里的时间为UTC时间，需要转换成你当地的时间
 
 jobs:
   build:
